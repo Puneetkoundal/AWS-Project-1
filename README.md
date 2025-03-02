@@ -1,2 +1,2 @@
 # AWS-Project-1
-Deployed App using httpd to AWS
+Deployed App using Apache2 to AWS
