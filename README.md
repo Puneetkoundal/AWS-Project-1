@@ -35,7 +35,7 @@ Once instance is running:
    
 # Step 4: Installing Apache2 Web Server
 After connecting to your instance:  
-1. Update pavkage lists.    
+1. Update package lists.    
 2. Install Apache2.  
 3. Enable and start the apache service.
 4. verify Apache installation by visiting http://your-ec2-PublicIP in your browser. You should see the Apache default page.
