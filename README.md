@@ -1,7 +1,7 @@
 # AWS-Project-1
 # For detailed step by step guide blog of the project: Read out Here ->  
 https://medium.com/@killerjohnson513/deploying-and-hosting-a-web-application-on-aws-ec2-with-apache2-84b8fe5a850e  
-Deployed App using Apache2 to AWS
+
 # Prerequisites
 1.An AWS account.  
 2.knowledge of Linux commands and Git.  
