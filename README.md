@@ -12,16 +12,16 @@ cd /path/to/your/project
 git init
 2. Add Files to the repository:
 
-git add .
-git commit -m "Initial commit"
-3. Create a New GitHub Repository:
+git add .  
+git commit -m "Initial commit"  
+3. Create a New GitHub Repository:  
 
-Go to GitHub and create a new repository:
+Go to GitHub and create a new repository:  
 
-Go to GitHub and create a new repository.
-Copy the repository URL
-4. Push your files to GitHub:
+Go to GitHub and create a new repository.  
+Copy the repository URL  
+4. Push your files to GitHub:  
 
-git remote add origin https://github.com/your-username/your-repo.git
-git branch -M main
-git push -u origin main
+git remote add origin https://github.com/your-username/your-repo.git  
+git branch -M main  
+git push -u origin main  
