@@ -1,4 +1,4 @@
-# AWS-Project-1
+# AWS-Project
 # For detailed step by step guide blog of the project: Read out Here ->  
 https://medium.com/@killerjohnson513/deploying-and-hosting-a-web-application-on-aws-ec2-with-apache2-84b8fe5a850e  
 
